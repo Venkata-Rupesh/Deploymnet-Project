@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment Variables
+.env
+frontend/.env
+backend/.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build Folders
+dist/
+build/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+docker-data/
+
+# Coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Package lock optional
+# package-lock.json
